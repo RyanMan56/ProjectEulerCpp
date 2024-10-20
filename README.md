@@ -1,5 +1,9 @@
 # Project Euler Cpp
 
+My solutions to the Project Euler problems in C++. This is mainly just to get some more practice with the language.
+
+Problems can be found here: https://projecteuler.net/
+
 ## How to run
 
 1. Create a `build` directory, e.g. `mkdir build`
