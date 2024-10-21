@@ -1,5 +1,6 @@
 #include "problem1.h"
 #include "problem2.h"
+#include "problem3.h"
 
 #include <iostream>
 
@@ -9,6 +10,7 @@ int main()
 
     problem1();
     problem2();
+    problem3();
 
     return 0;
 }

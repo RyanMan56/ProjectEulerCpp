@@ -1,14 +1,10 @@
 #include "problem1.h"
 #include "vector_util.h"
+#include "math_util.h"
 
 #include <iostream>
 #include <vector>
 #include <numeric>
-
-bool isMultipleOf(int multipleOf, int value)
-{
-    return value % multipleOf == 0;
-}
 
 int sumNumbers(const std::vector<int> &numbers)
 {
