@@ -29,7 +29,7 @@ int sumOfEvenValues(const std::vector<int> &v)
 
 void problem2()
 {
-    std::cout << "\n-----\nProblem 2:\n\n";
+    std::cout << "\n-----\nProblem 2:\nCalculate the sum of all even numbers in the fibonacci sequence from 1 to 4,000,000\n\n";
 
     std::vector<int> v{generateFibonacciUpToMax(4000000)};
     std::cout << "Vector: " << v << "\n\n";
